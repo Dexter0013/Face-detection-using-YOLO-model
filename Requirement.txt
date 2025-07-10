@@ -1,0 +1,12 @@
+ultralytics==8.0.164         # YOLOv8/YOLOv11 training and inference
+opencv-python==4.9.0.80      # Real-time video stream handling
+streamlit==1.31.1            # Web-based UI integration (optional)
+streamlit-webrtc==0.46.0     # Webcam streaming in Streamlit
+deepface==0.0.79             # Optional post-detection facial analysis
+pandas==2.2.1                # Data handling and performance logs
+numpy==1.26.4                # Array manipulation
+matplotlib==3.9.0            # Evaluation metrics visualization
+scikit-learn==1.4.2          # Confusion matrix and metric tools
+Pillow==10.3.0               # Image processing
+PyYAML==6.0.1                # Parsing YOLO config and data.yaml
+onnx==1.16.0                 # Model export (optional)
